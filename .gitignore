@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/ParseStarterProject/build/intermediates/blame/
+/ParseStarterProject/build/intermediates/classes/
+/ParseStarterProject/build/intermediates/classes/debug/
+/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/
+/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/
+/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/
+/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/
+/ParseStarterProject/build/intermediates/incremental/
+/ParseStarterProject/build/intermediates/incremental-safeguard/
+/ParseStarterProject/build/intermediates/instant-run-support/
+/ParseStarterProject/build/intermediates/manifests/
+/ParseStarterProject/build/intermediates/pre-dexed/
+/ParseStarterProject/build/intermediates/res/
+/ParseStarterProject/build/intermediates/symbols/
+/ParseStarterProject/build/intermediates/transforms/
+/ParseStarterProject/build/outputs/
+/ParseStarterProject/build/tmp/
